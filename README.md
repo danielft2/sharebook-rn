@@ -28,7 +28,7 @@ A ideia do projeto é desenvolver uma aplicação mobile utilizando react native
 #### Ferramentas
 
 - Protótipo: [**Figma**](https://www.figma.com/file/Gvz9lZVWX845bpMhtfgkvu/ShareBook?type=design&node-id=160%3A165&mode=design&t=kwUU5whODF1PjM9l-1)
-- Editor de código: [**Android Studio**](https://developer.android.com/studio) & [**VS Code**](https://code.visualstudio.com)
+- Editor de código: [**VS Code**](https://code.visualstudio.com)
 
 ## ✔️ Requisitos
 
