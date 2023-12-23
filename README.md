@@ -25,16 +25,7 @@ A ideia do projeto é desenvolver uma aplicação mobile utilizando react native
 
 - [**React Native**](https://reactnative.dev/)
 
-#### Server
-
-- [**NestJS**](https://nestjs.com/)
-- [**Node Js**](https://nodejs.org/en)
-- [**Typescript**](https://www.typescriptlang.org/)
-- [**JEST**](https://jestjs.io/pt-BR/)
-- [**Prisma**](https://www.prisma.io/)
-- [**PostgreSQL**](https://www.postgresql.org)
-
-#### 🛠 Ferramentas
+#### Ferramentas
 
 - Protótipo: [**Figma**](https://www.figma.com/file/Gvz9lZVWX845bpMhtfgkvu/ShareBook?type=design&node-id=160%3A165&mode=design&t=kwUU5whODF1PjM9l-1)
 - Editor de código: [**Android Studio**](https://developer.android.com/studio) & [**VS Code**](https://code.visualstudio.com)
@@ -44,4 +35,3 @@ A ideia do projeto é desenvolver uma aplicação mobile utilizando react native
 - Expo: ~49.0.15
 - React Native: 0.72.6
 - Node 18.16 LTS
-- postgresql configurado
